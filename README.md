@@ -6,9 +6,12 @@
 
 ### ReactJS
 - [To do - Crash Course](https://github.com/ruivalente99/react-crashcourse "To do - Crash Course")
-
 ------------
 
+
+### Redux
+------------
+-[ Simple tutorial](https://github.com/ruivalente99/react-redux" Simple tutorial")
 
 ### Redux - Saga
 -[ Simple tutorial](https://github.com/ruivalente99/react-reduxsaga " Simple tutorial")
